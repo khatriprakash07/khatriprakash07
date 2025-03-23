@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/prakash-khatri-80588a295/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-<a href="MailTo:your-Khatriprawkash29@gmail.com">
+<a href="#" onclick="alert('Your email is: your-khatriprawkash29@gmail.com');">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="http://www.instagram.com/namo_11.11?igsh=MmxmZmQwNG84MzNn&utm_source=qr" target="_blank">
