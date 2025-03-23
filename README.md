@@ -37,6 +37,10 @@
 ###
 
 <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Excel_Logo_%282013-2019%29.svg/288px-Microsoft_Excel_Logo_%282013-2019%29.svg.png?20180217032706" height="45" alt="Excel logo"  />
+<img width="20" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFG7OKRurUV7qNH4FrsCjJKYSTUvY4LKtVOQ&s" height="40" alt="Power BI"  />
+<img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
@@ -46,6 +50,9 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+ 
+  
 </div>
 
 ###
