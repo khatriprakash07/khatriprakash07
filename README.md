@@ -1,19 +1,67 @@
-<h1 align="center">Hi 👋, I'm Prakash Khatri</h1>
-<h3 align="center">Passionate about data and analytics | Exploring patterns, insights, and visualization to make data-driven decisions and solve problems effectively</h3>
+<div align="center">
+  <img height="150" src="data:image/png;base64,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"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khatriprakash07&label=Profile%20views&color=0e75b6&style=flat" alt="khatriprakash07" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khatriprakash07" alt="khatriprakash07" /></a> </p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-- 📫 How to reach me **Khatriprawkash29@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khatriprakash07.khatriprakash07&"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khatriprakash07&show_icons=true&locale=en&layout=compact" alt="khatriprakash07" /></p>
+<h1 align="center">Hi👋, <br>I am Prakash Khatri</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khatriprakash07&show_icons=true&locale=en" alt="khatriprakash07" /></p>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Passionate about data and analytics | Exploring patterns, insights, and visualization to make data-driven decisions and solve problems effectively</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=khatriprakash07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khatriprakash07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khatriprakash07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
