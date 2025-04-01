@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwERcAVqCUSPV8F6M9HkE3XqDskdaqE_9j4mo2y-V2n6-_1Q2VXyg3iwrT_ic65w8NAJQ&usqp=CAU"
-    >
+  <img height="150" width="800" src="https://thumbs.dreamstime.com/b/futuristic-user-interface-set-hud-future-infographic-elements-technology-science-theme-analysis-system-scanning-graphs-waves-108344996.jpg?w=768">
 </div>
 
 ###
@@ -26,7 +25,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
 
