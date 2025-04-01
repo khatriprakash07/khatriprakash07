@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="800" src="https://thumbs.dreamstime.com/b/futuristic-user-interface-set-hud-future-infographic-elements-technology-science-theme-analysis-system-scanning-graphs-waves-108344996.jpg?w=768">
+  <img height="200" width="800" src="https://thumbs.dreamstime.com/b/futuristic-user-interface-set-hud-future-infographic-elements-technology-science-theme-analysis-system-scanning-graphs-waves-108344996.jpg?w=768">
 </div>
 
 ###
