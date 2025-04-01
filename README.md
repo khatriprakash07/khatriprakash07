@@ -30,7 +30,12 @@
 
 ###
 
-<p align="left">Passionate about data and analytics | Exploring patterns, insights, and visualization to make data-driven decisions and solve problems effectively</p>
+<p align="left">Passionate about data and analytics | Exploring patterns, insights, and visualization to make data-driven decisions and solve problems effectively
+
+  - 🔭 I’m currently working on **Data Analyst Projects**
+
+- 🌱 I’m currently learning **SQL and Python**
+ </p>
 
 ###
 
